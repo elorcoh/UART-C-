@@ -1,0 +1,10 @@
+C:\Users\elorc\Desktop\UART_Niron\UART_Niron\UART_Niron\bin\Debug\UART_Niron.exe.config
+C:\Users\elorc\Desktop\UART_Niron\UART_Niron\UART_Niron\bin\Debug\UART_Niron.exe
+C:\Users\elorc\Desktop\UART_Niron\UART_Niron\UART_Niron\bin\Debug\UART_Niron.pdb
+C:\Users\elorc\Desktop\UART_Niron\UART_Niron\UART_Niron\obj\Debug\UART_Niron.csprojResolveAssemblyReference.cache
+C:\Users\elorc\Desktop\UART_Niron\UART_Niron\UART_Niron\obj\Debug\UART_Niron.Form1.resources
+C:\Users\elorc\Desktop\UART_Niron\UART_Niron\UART_Niron\obj\Debug\UART_Niron.Properties.Resources.resources
+C:\Users\elorc\Desktop\UART_Niron\UART_Niron\UART_Niron\obj\Debug\UART_Niron.csproj.GenerateResource.Cache
+C:\Users\elorc\Desktop\UART_Niron\UART_Niron\UART_Niron\obj\Debug\UART_Niron.csproj.CoreCompileInputs.cache
+C:\Users\elorc\Desktop\UART_Niron\UART_Niron\UART_Niron\obj\Debug\UART_Niron.exe
+C:\Users\elorc\Desktop\UART_Niron\UART_Niron\UART_Niron\obj\Debug\UART_Niron.pdb
